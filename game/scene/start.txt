@@ -1,0 +1,297 @@
+changeBg:RGB/Background_001_001.png -transform={"position":{"x":0,"y":0},"scale":{"x":1,"y":1}};
+八幡海铃:大;
+changeFigure:立绘差分/hiro/hiro_3.png -loop -id=taki -transform={"position":{"x":0,"y":300},"scale":{"x":1.2,"y":1.2}};
+setTransform:{"position":{"x":0,"y":287.26},"scale":{"x":1.8,"y":1.8},"rotation":33.26} -target=taki -duration=500;
+setTransform:{"position":{"x":-400,"y":600},"rotation":0,"scale":{"x":1.8,"y":1.8}} -target=taki -duration=500;
+椎名立希:你;
+changeFigure:魔裁风格立绘/umiri_mei.png -id=umiri -transform={"position":{"x":443.69,"y":700},"rotation":0,"scale":{"x":2.05,"y":2.05}} -loop=true;
+八幡海铃:你;
+changeFigure:立绘差分/hiro/hiro_2.png -id=taki -transform={"position":{"x":-400,"y":600},"rotation":0,"scale":{"x":1.8,"y":1.8}} -loop;
+椎名立希:可能;
+八幡海铃:有;
+椎名立希:所以;
+八幡海铃:我;
+椎名立希:哦
+setTransform:{"position":{"x":-1749.23,"y":-856.46},"scale":{"x":1.2,"y":1.2},"rotation":33.26} -target=taki -duration=1000;
+八幡海铃:不是;
+changeFigure:魔裁风格立绘/umiri_mei.png -id=umiri -transform={"position":{"x":443.69,"y":700},"rotation":0,"scale":{"x":2.05,"y":2.05}} -loop=true;
+setTransform:{"position":{"x":-1334.27,"y":-647.43},"scale":{"x":1.2,"y":1.2},"rotation":0} -target=umiri -duration=500;
+setTransform:{"position":{"x":-400,"y":600},"rotation":0,"scale":{"x":1.8,"y":1.8}} -target=taki -duration=500;
+setTransform:{"position":{"x":443.69,"y":700},"rotation":0,"scale":{"x":2.05,"y":2.05}} -target=umiri -duration=500;
+椎名立希:這;
+椎名立希:不行了;
+八幡海铃:我;
+椎名立希:不是;
+changeFigure:prts/avg_4186_tmoris_9$3.png -id=umiri -transform={"bevelGreen":255,"bloomBrightness":1.12,"brightness":0.85,"colorGreen":255,"colorRed":255,"contrast":1.15,"gamma":1,"position":{"x":443.69,"y":700},"saturation":1.24,"scale":{"x":-2.05,"y":2.05}};
+八幡海铃:我去;
+changeFigure:立绘差分/hiro/hiro_1.png -id=taki -transform={"position":{"x":-400,"y":600},"rotation":0,"scale":{"x":1.8,"y":1.8}} -loop;
+椎名立希:哦;
+八幡海铃:還沒;
+椎名立希:我;
+:;
+changeFigure: -id=taki -next;
+changeFigure: -id=umiri -next;
+changeBg:RGB/Background_024_002.png -type=blinds;
+manopedia:on;
+pediaUpdate:;
+changeFigure:bettercallsoyo/bcs.png -id=soyo -transform={"position":{"x":0,"y":600},"scale":{"x":1.8,"y":1.8}};
+长崎素世:你
+changeFigure:魔裁风格立绘/umiri_mei.png -id=umiri -transform={"position":{"x":600.1,"y":600},"scale":{"x":1.8,"y":1.8}};
+八幡海铃:我
+长崎素世:啊~
+changeFigure:魔裁风格立绘/taki_mei.png -id=taki -transform={"position":{"x":-600.1,"y":600},"scale":{"x":1.8,"y":1.8}} -loop=true;
+椎名立希:你不是最近在看
+八幡海铃:啊
+长崎素世:只是
+椎名立希:陪我們
+长崎素世:行
+:;
+changeFigure: -id=taki -next;
+changeFigure: -id=umiri -next;
+changeFigure: -id=soyo -next;
+changeBg:RGB/Background_001_001.png -transform={"position":{"x":0,"y":0},"scale":{"x":1,"y":1}};
+changeFigure:bettercallsoyo/bcs.png -id=soyo -transform={"position":{"x":0,"y":600},"scale":{"x":1.8,"y":1.8}} -next;
+setTransform:{"position":{"x":0,"y":600},"scale":{"x":1.8,"y":1.8},"rotation":0,"bevel":0,"bevelBlue":255,"bevelGreen":255,"bevelRed":255,"bevelRotation":0,"bevelSoftness":0,"bevelThickness":0,"bloom":0,"bloomBlur":0,"bloomBrightness":1.02,"bloomThreshold":0,"brightness":0.86,"colorBlue":255,"colorGreen":255,"colorRed":255,"contrast":1.03,"gamma":1,"saturation":1.4} -target=soyo -duration=500 -next;
+长崎素世:這
+changeFigure:prts/avg_4186_tmoris_9$3.png -id=umiri -transform={"position":{"x":800.1,"y":600},"scale":{"x":1.8,"y":1.8}} -next;
+setTransform:{"position":{"x":600.1,"y":600},"scale":{"x":1.8,"y":1.8},"bloomBrightness":1.08,"brightness":0.79,"contrast":1.15,"saturation":1.23} -target=umiri -duration=500 -next;
+八幡海铃:是的
+changeFigure:立绘差分/hiro/hiro_3.png -loop -id=taki -transform={"position":{"x":-700,"y":600},"scale":{"x":1.8,"y":1.8}};
+椎名立希:你
+长崎素世:诶
+changeFigure: -id=taki -next;
+changeFigure: -id=umiri -next;
+changeFigure: -id=soyo;
+changeBg:RGB/Background_001_001.png -transform={"position":{"x":0,"y":0},"scale":{"x":1.45,"y":1.45}};
+setTransform:{"position":{"x":-539.45,"y":-324.96},"scale":{"x":1.45,"y":1.45}} -target=bg-main -duration=500 -next;
+playEffect:Common/Notice2.ogg;
+addItem:SAPPHO;
+changeFigure:bettercallsoyo/bcs02.png -loop -next -id=soyo -transform={"position":{"x":0,"y":600},"scale":{"x":1.8,"y":1.8}};
+长崎素世:這
+setTransform:{"position":{"x":0,"y":0},"scale":{"x":1,"y":1}} -target=bg-main -duration=500 -next;
+长崎素世:为
+changeFigure: -id=soyo -next;
+changeFigure:prts/avg_4186_tmoris_6$3.png -id=umiri -transform={"position":{"x":0,"y":600},"saturation":1.66,"scale":{"x":1.8,"y":1.8}};
+八幡海铃:看
+八幡海铃:而
+椎名立希:确
+changeFigure:prts/avg_4186_tmoris_6$3.png -id=umiri -transform={"position":{"x":0,"y":600},"saturation":1.66,"scale":{"x":1.8,"y":1.8}};
+setTransform:{"position":{"x":600,"y":600},"scale":{"x":1.8,"y":1.8}} -target=umiri -duration=500 -next;
+changeFigure:魔裁风格立绘/taki_mei.png -id=taki -transform={"position":{"x":-600,"y":600},"scale":{"x":1.8,"y":1.8}} -loop=true;
+changeFigure: -id=taki -next;
+changeFigure: -id=umiri -next;
+changeFigure:bettercallsoyo/bcs03.png -loop -next -id=soyo -transform={"position":{"x":0,"y":600},"scale":{"x":1.8,"y":1.8}};
+setTransform:{"position":{"x":-539.45,"y":299.46},"scale":{"x":1.45,"y":1.45}} -target=bg-main -duration=500 -next;
+长崎素世:等
+playEffect:Common/Notice1.ogg;
+addItem:hualaishi;
+changeFigure:prts/avg_4186_tmoris_5$3.png -id=umiri -transform={"position":{"x":600,"y":600},"saturation":1.66,"scale":{"x":1.8,"y":1.8}};
+setTransform:{"position":{"x":-628.83,"y":600},"scale":{"x":1.8,"y":1.8}} -target=soyo -duration=500 -next;
+八幡海铃:我
+长崎素世:
+八幡海铃:我
+椎名立希:你
+changeFigure:prts/avg_4186_tmoris_6$3.png -id=umiri -transform={"position":{"x":600,"y":600},"saturation":1.66,"scale":{"x":1.8,"y":1.8}};
+setTransform:{"position":{"x":0,"y":0},"scale":{"x":1.45,"y":1.45}} -target=bg-main -duration=500 -next;
+八幡海铃:我
+changeFigure:魔裁风格立绘/taki_mei.png -id=taki -transform={"position":{"x":0,"y":600},"scale":{"x":1.8,"y":1.8}} -loop=true;
+椎名立希:用
+椎名立希:姑且
+椎名立希:以及
+playEffect:场景音效/Sfx_Scenario_104 Hang up.ogg;
+:;
+changeFigure: -id=taki -next;
+changeFigure: -id=umiri -next;
+changeFigure: -id=soyo -next;
+changeBg:RGB/Background_002_001.png -type=blinds;
+changeFigure:bettercallsoyo/bcs02.png -loop -next -id=soyo -transform={"position":{"x":0,"y":600},"scale":{"x":1.8,"y":1.8}};
+长崎素世:我
+choose:千早爱音:|三角初华:|若叶睦:|要乐奈: @skeleton;
+changeFigure: -id=soyo -next;
+changeFigure:魔裁风格立绘/taki_mei.png -id=taki -transform={"position":{"x":0,"y":600},"scale":{"x":1.8,"y":1.8}} -loop=true;
+椎名立希:三角
+:;
+changeFigure: -id=taki -next;
+changeBg:RGB/Background_012_001.png -type=blinds;
+changeFigure:魔裁风格立绘/uika_mei.png -id=uika -transform={"position":{"x":0,"y":500},"scale":{"x":1.8,"y":1.8}} -loop=true;
+三角初华:诶
+setTransform:{"position":{"x":-577.76,"y":500},"scale":{"x":1.8,"y":1.8}} -target=uika -duration=500 -next;
+changeFigure:魔裁风格立绘/mana_mei.png -id=mana -transform={"position":{"x":443.69,"y":600},"scale":{"x":1.7,"y":1.7}};
+纯田真奈:大家好
+changeFigure: -id=uika -next;
+changeFigure: -id=mana -next;
+changeFigure:bettercallsoyo/bcs03.png -loop -next -id=soyo -transform={"position":{"x":0,"y":600},"scale":{"x":1.8,"y":1.8}};
+长崎素世:姑且
+changeFigure: -id=soyo -next;
+changeFigure:魔裁风格立绘/uika_mei.png -id=uika -transform={"position":{"x":0,"y":1000},"scale":{"x":2.5,"y":2.5}} -loop=true;
+三角初华:小海铃
+changeFigure: -id=uika -next;
+changeFigure:魔裁风格立绘/taki_mei.png -id=taki -transform={"position":{"x":0,"y":600},"scale":{"x":1.8,"y":1.8}} -loop=true;
+椎名立希:我
+changeFigure: -id=taki -next;
+changeFigure:魔裁风格立绘/uika_mei.png -id=uika -transform={"position":{"x":0,"y":500},"scale":{"x":1.8,"y":1.8}} -loop=true;
+三角初华:我
+setTransform:{"position":{"x":-577.76,"y":500},"scale":{"x":1.8,"y":1.8}} -target=uika -duration=500 -next;
+changeFigure:魔裁风格立绘/mana_mei.png -id=mana -transform={"position":{"x":443.69,"y":600},"scale":{"x":1.7,"y":1.7}};
+纯田真奈:确实
+长崎素世:(我们有证据?)
+thinking:soyo.png 实际上，我们是有证据初华和祥子失踪有关的: @objection.png|我们在祥子的房间有针孔摄像头: @perjury.png|@back;
+:;
+changeFigure: -id=uika -next;
+changeFigure: -id=mana -next;
+changeFigure:魔裁风格立绘/uika_mei01.png -id=uika -transform={"position":{"x":0,"y":1000},"scale":{"x":2.5,"y":2.5}} -loop=true;
+label:uika
+三角初华:我
+changeFigure:魔裁风格立绘/uika_mei02.png -id=uika -transform={"position":{"x":0,"y":1000},"scale":{"x":2.5,"y":2.5}} -loop=true;
+三角初华:你最好
+presentTheEvidence:|uika @SAPPHO;
+:;
+changeFigure: -id=uika -next;
+changeFigure:bettercallsoyo/bcs02.png -loop -next -id=soyo -transform={"position":{"x":0,"y":600},"scale":{"x":1.8,"y":1.8}};
+showItem:SAPPHO;
+长崎素世:有
+changeFigure: -id=soyo -next;
+changeFigure:魔裁风格立绘/uika_mei01.png -id=uika -transform={"position":{"x":0,"y":1000},"scale":{"x":2.5,"y":2.5}} -loop=true;
+三角初华:这
+changeFigure:魔裁风格立绘/uika_mei02.png -id=uika -transform={"position":{"x":0,"y":1000},"scale":{"x":2.5,"y":2.5}} -loop=true;
+三角初华:难道
+changeFigure:魔裁风格立绘/uika_mei03.png -id=uika -transform={"position":{"x":0,"y":1000},"scale":{"x":2.5,"y":2.5}} -loop=true;
+三角初华:真是
+label:soyo
+thinking:soyo.png 很简单，因为只有你扣祥子会戴指套: zhengchang@icon=objection.png@refute=refute/soyo.webm|哦对了，东山燃灯做了一个新的收录文章的网站:guaanggao@icon=agree.png|@back;
+label:guaanggao
+changeFigure: -id=uika -next;
+changeFigure:bettercallsoyo/bcs03.png -loop -next -id=soyo -transform={"position":{"x":0,"y":600},"scale":{"x":1.8,"y":1.8}};
+长崎素世:哦
+三角初华:我没
+changeFigure:立绘差分/ema/艾玛9.png  -loop -next -id=ema -transform={"position":{"x":-600,"y":600},"scale":{"x":1.6,"y":1.6}};
+樱羽艾玛:不能这么接的吧
+changeFigure:立绘差分/hiro/希罗2.png -loop -next -id=taki -transform={"position":{"x":600,"y":500},"scale":{"x":1.6,"y":1.6}};
+椎名立希:爱音
+changeFigure:立绘差分/ema/ema_1.png -loop -next -id=ema -transform={"position":{"x":-600,"y":600},"scale":{"x":1.6,"y":1.6}};
+樱羽艾玛:这
+changeFigure:立绘差分/margo/margo_1.png -loop -next -id=soyo -transform={"position":{"x":0,"y":500},"scale":{"x":1.6,"y":1.6}};
+宝生玛格:你
+changeFigure:立绘差分/leia/蕾雅8.png -loop -next -id=ema -transform={"position":{"x":-600,"y":600},"scale":{"x":1.6,"y":1.6}};
+莲见蕾雅:本
+changeFigure: -id=ema -next;
+changeFigure: -id=taki -next;
+changeFigure:bettercallsoyo/bcs03.png -loop -next -id=soyo -transform={"position":{"x":0,"y":600},"scale":{"x":1.8,"y":1.8}};
+三角初华:真
+jumpLabel:soyo
+label:zhengchang
+长崎素世:很
+changeFigure: -id=soyo -next;
+changeFigure:魔裁风格立绘/uika_mei01.png -loop -id=uika -transform={"position":{"x":0,"y":500},"scale":{"x":1.8,"y":1.8}};
+三角初华:你
+setTransform:{"position":{"x":-577.76,"y":500},"scale":{"x":1.8,"y":1.8}} -target=uika -duration=500 -next;
+changeFigure:魔裁风格立绘/mana_mei.png -id=mana -transform={"position":{"x":600,"y":600},"scale":{"x":1.7,"y":1.7}};
+纯田真奈:确
+changeFigure:魔裁风格立绘/uika_mei03.png -loop -id=uika -transform={"position":{"x":-577.76,"y":500},"scale":{"x":1.8,"y":1.8}};
+三角初华:什
+纯田真奈:祥子
+changeFigure:魔裁风格立绘/umiri_mei.png -id=umiri -transform={"position":{"x":0,"y":600},"rotation":0,"scale":{"x":1.8,"y":1.8}} -loop=true;
+八幡海铃:话
+changeFigure:魔裁风格立绘/uika_mei02.png -loop -id=uika -transform={"position":{"x":-577.76,"y":500},"scale":{"x":1.8,"y":1.8}};
+三角初华:谁
+changeFigure: -id=mana -next;
+changeFigure: -id=uika -next;
+changeFigure: -id=umiri -next;
+changeFigure:立绘差分/hiro/希罗3.png -loop -id=taki -transform={"position":{"x":0,"y":600},"rotation":0,"scale":{"x":1.8,"y":1.8}};
+椎名立希:海玲
+纯田真奈:小
+changeFigure: -id=taki -next;
+changeFigure:魔裁风格立绘/uika_mei02.png -loop -id=uika -transform={"position":{"x":0,"y":500},"scale":{"x":1.8,"y":1.8}};
+三角初华:就
+:;
+judgment:begins -timer=13:00:000 -timeout=2.txt;
+label:judgment01;
+setTextbox:hide;
+changeFigure:魔裁风格立绘/uika_mei01.png -id=uika -transform={"position":{"x":430.92,"y":1003.36},"scale":{"x":2.75,"y":2.75},"rotation":0.2} -loop;
+testimony:除了我之外，其他人也有能在我之后扣祥子! -left -refutes={"除了我":"thinking:soyo.png 实际上只有你可能:@icon=objection.png|我们有确凿的证据可以证明:@icon=perjury.png|@back"} -colors={"除了我":"#BB9955"} -y=400;
+testimony:比如千早爱音之类的，或者小立希之类的! -left -refutes={"千早爱音":"thinking:soyo.png 爱祥不赖: test@icon=agree.png@refute=refute/soyo.webm|@back"} -colors={"千早爱音":"#BB9955"} -y=600;
+changeFigure:魔裁风格立绘/uika_mei02.png -id=uika -transform={"position":{"x":430.92,"y":1003.36},"scale":{"x":2.75,"y":2.75},"rotation":0.2} -loop;
+testimony:单凭这个就断定是我干的，根本毫无根据！ -left -y=800;
+clearTestimony:;
+changeFigure: -id=uika -next;
+changeFigure:bettercallsoyo/bcs03.png -loop -next -id=soyo -transform={"position":{"x":0,"y":600},"scale":{"x":1.8,"y":1.8}};
+setTextbox:on;
+长崎素世:仔细
+长崎素世:或者
+setTextbox:hide;
+changeFigure: -id=soyo -next;
+jumpLabel:judgment01;
+label:test;
+refute:refute/soyo.webm;
+changeFigure: -id=uika -next;
+changeFigure:bettercallsoyo/bcs02.png -loop -next -id=soyo -transform={"position":{"x":0,"y":600},"scale":{"x":1.8,"y":1.8}};
+setTextbox:on -next;
+长崎素世:哎
+changeFigure:bettercallsoyo/bcs.png -loop -next -id=soyo -transform={"position":{"x":0,"y":600},"scale":{"x":1.8,"y":1.8}};
+长崎素世:既然
+changeFigure:魔裁风格立绘/anon_mei.png -loop -next -id=soyo -transform={"position":{"x":0,"y":600},"scale":{"x":1.8,"y":1.8}};
+千早爱音:大家
+:;
+manopedia:off -next;
+judgment:begins -timer=12:00:000 -timeout=1.txt;
+setTextbox:hide;
+label:judgment02;
+changeFigure: -id=soyo;
+changeFigure:bettercallsoyo/bcs02.png -id=soyo -transform={"position":{"x":296.86,"y":969.56},"scale":{"x":2.55,"y":2.55},"rotation":0.45} -loop -next;
+testimony:千早爱音，你跟祥子失踪有什么关系吗？ -left -refutes={"千早爱音":"thinking:soyo.png 这货不是爱音，她是樱羽艾玛:wtf@icon=objection.png|@back"} -colors={"千早爱音":"#FFDD88"} -y=400;
+testimony:或者说你知道祥子为什么失踪了吗？  -left -y=800;
+clearTestimony:;
+changeFigure:anon_mei/anon_thinking.png -loop -next -id=soyo -transform={"position":{"x":296.86,"y":969.56},"scale":{"x":2.55,"y":2.55},"rotation":0.45};
+testimony:啊，算是有点关系吧 -left -y=400;
+testimony:前天我把祥子 -left -y=600;
+changeFigure:anon_mei/anon_shy.png -loop -next -id=soyo -transform={"position":{"x":296.86,"y":969.56},"scale":{"x":2.55,"y":2.55},"rotation":0.45};
+testimony:让她甚至差点没法去罗德岛出差，怎么了 -left -y=800 -refutes={"罗德岛出差":"thinking:soyo.png 什么叫罗德岛出差？:luodedao@icon=question.png|@back"} -colors={"罗德岛出差":"#FF8899"};
+clearTestimony:;
+jumpLabel:judgment02;
+label:wtf;
+changeFigure: -id=soyo -next;
+setTextbox:on;
+changeFigure:立绘差分/ema/艾玛9.png  -loop -next -id=ema -transform={"position":{"x":-600,"y":600},"scale":{"x":1.6,"y":1.6}};
+樱羽艾玛:素
+changeFigure:prts/avg_4186_tmoris_9$3.png -id=umiri -transform={"bevelGreen":255,"bloomBrightness":1.12,"brightness":0.85,"colorGreen":255,"colorRed":255,"contrast":1.15,"gamma":1,"position":{"x":443.69,"y":800},"saturation":1.24,"scale":{"x":-2.05,"y":2.05}};
+八幡海铃:對阿
+changeFigure: -id=umiri -next;
+changeFigure: -id=ema -next;
+changeFigure:bettercallsoyo/bcs02.png -loop -next -id=soyo -transform={"position":{"x":0,"y":600},"scale":{"x":1.8,"y":1.8}};
+长崎素世:搞砸了
+setTextbox:hide;
+jumpLabel:judgment02;
+label:luodedao;
+changeFigure: -id=soyo -next;
+changeFigure:bettercallsoyo/bcs05.png -loop -next -id=soyo -transform={"position":{"x":0,"y":600},"scale":{"x":1.8,"y":1.8}};
+setTextbox:on;
+长崎素世:罗德
+changeFigure:anon_mei/anon_thinking.png -loop -next -id=soyo -transform={"position":{"x":0,"y":600},"scale":{"x":1.8,"y":1.8}};
+千早爱音:就是
+changeFigure:魔裁风格立绘/umiri_mei.png -loop -next -id=soyo -transform={"position":{"x":0,"y":600},"scale":{"x":1.8,"y":1.8}};
+八幡海铃:最
+setTransform:{"position":{"x":-600,"y":600},"scale":{"x":1.8,"y":1.8}} -target=soyo -duration=500 -next;
+changeFigure:prts/avg_4183_mortis_15$2.png -loop -next -id=mutsumi -transform={"position":{"x":600,"y":800},"scale":{"x":1.8,"y":1.8}};
+若叶睦:你們
+changeFigure: -id=soyo -next;
+changeFigure: -id=mutsumi -next;
+changeFigure:anon_mei/anon_thinking.png -loop -next -id=anon -transform={"position":{"x":0,"y":600},"scale":{"x":1.8,"y":1.8}};
+千早爱音:祥祥
+setTransform:{"position":{"x":-600,"y":600},"scale":{"x":1.8,"y":1.8}} -target=anon -duration=500 -next;
+changeFigure:魔裁风格立绘/sakiko_mei.png -loop -next -id=sakiko -transform={"position":{"x":600,"y":600},"scale":{"x":1.8,"y":1.8}};
+丰川祥子:诶
+changeFigure: -id=anon -next;
+changeFigure: -id=sakiko -next;
+changeFigure:魔裁风格立绘/umiri_mei.png -id=umiri -transform={"position":{"x":0,"y":700},"rotation":0,"scale":{"x":2.05,"y":2.05}} -loop=true;
+八幡海铃:我从
+changeFigure: -id=umiri -next;
+changeFigure:魔裁风格立绘/sakiko_mei.png -loop -next -id=sakiko -transform={"position":{"x":0,"y":600},"scale":{"x":1.8,"y":1.8}};
+丰川祥子:实际
+长崎素世:所以
+changeFigure:prts/avg_4182_oblvns_6$2.png -loop -next -id=sakiko -transform={"position":{"x":0,"y":700},"scale":{"x":1.8,"y":1.8}};
+丰川祥子:真是
+judgment:concluded;
+:;
+changeFigure: -id=sakiko -next;
+changeFigure:bettercallsoyo/bcs05.png -loop -next -id=soyo -transform={"position":{"x":0,"y":600},"scale":{"x":1.8,"y":1.8}};
+长崎素世:只不过
